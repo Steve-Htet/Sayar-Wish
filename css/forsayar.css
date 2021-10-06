@@ -15,6 +15,7 @@ body{
 	width: 100%;
 	margin: 0;
 	padding: 0;
+	cursor: pointer;
 	/*height: 100vh;*/
 	/*background: rgb(16,9,133);*/
 	/*background: linear-gradient(180deg, rgba(16,9,133,1) 0%, rgba(99,39,140,1) 50%, rgba(237,138,65,1) 100%);*/
